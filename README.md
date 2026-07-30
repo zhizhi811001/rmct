@@ -83,7 +83,7 @@ LICENSE
 
 If you use RMCT in research, please cite:
 
-> Zhang, Q. Regional Manufacturing Capability Taxonomy (RMCT). Version 2.0.
+>
 
 ---
 
@@ -101,11 +101,10 @@ This will support capability knowledge graphs and innovation-to-production partn
 
 ## Author
 
-**Dr Qingzhi (Kathy) Zhang**
 
 Coventry University
 
-Research Institute for Clean Growth and Future Mobility
+Institute For Advanced Manufacturing and Engineering
 
 United Kingdom
 
